@@ -1,0 +1,18 @@
+*{
+    font-style:italic;
+}
+body{
+    background-color: #ff6f3c;
+}
+main{
+    background:#ffc93c;
+    padding-bottom: 35%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.centrar{
+    text-align:center;
+}
+header{
+    padding-bottom: 80px;
+}
